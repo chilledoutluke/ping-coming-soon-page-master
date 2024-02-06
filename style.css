@@ -30,3 +30,7 @@ body {
     display: grid;
     text-align: center;
 }
+
+.heading {
+    font-size: 35px;
+}
